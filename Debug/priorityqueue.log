@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\PC\Desktop\priorityqueue\Source.cpp(167,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\priorityqueue\Source.cpp(174,11): warning C4018: '<': signed/unsigned mismatch
+  priorityqueue.vcxproj -> C:\Users\PC\Desktop\priorityqueue\Debug\priorityqueue.exe
